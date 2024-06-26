@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm64 intelcczoo/horizontal_fl
+--platform=linux/amd64 intelcczoo/horizontal_fl
