@@ -1,3 +1,4 @@
 #支持指定架构
---platform=linux/amd64 intelcczoo/horizontal_fl:latest
+--platform=linux/amd64 intelcczoo/horizontal_fl:anolis_sgx_latest
+
 
